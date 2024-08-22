@@ -174,5 +174,3 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 - [Mongoose](https://mongoosejs.com/)
 
 ---
-
-For further information or support, please contact [your-email@example.com](mailto:your-email@example.com).
